@@ -500,6 +500,3 @@ while true ; do
 		fi
 	fi
 done
-
-echo
-echo "Well done you managed to pass everybody across the river !"
